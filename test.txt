@@ -3,3 +3,5 @@
 https://www.cnblogs.com/forever29/p/13099897.html
 
 Error launching IDEA-If you already have a 64-bit JDK installed, define a JAVA_HOME variable in Computer>System Properties>System Settings>Environment Variables. Failed to create JVM. JVM Path:C\Program Files\JetBrains\IntelliJ IDEA 2019.2\jbr\解决
+
+http://c.biancheng.net/view/714.html
